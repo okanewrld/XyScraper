@@ -1,4 +1,4 @@
-# How To Use
+#🌟 How To Use 🌟
 
 1. Download ZIP and extract the ZIP
 2. Install requirements.txt by typing pip install -r requirements.txt in Command Prompt
